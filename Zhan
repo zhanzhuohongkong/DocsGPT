@@ -1,0 +1,6 @@
+import { DocsGPTWidget } from "docsgpt";
+    import "docsgpt/dist/style.css";
+
+    const App = () => {
+      return <DocsGPTWidget />;
+    };
